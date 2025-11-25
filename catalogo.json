@@ -1,0 +1,20 @@
+[
+    {
+        "Nome": "naruto",
+        "Gênero": "Ação",
+        "Ano": 1900,
+        "Nota": 5.0
+    },
+    {
+        "Nome": "nanatsu",
+        "Gênero": "Ação",
+        "Ano": 1900,
+        "Nota": 5.0
+    },
+    {
+        "Nome": "invocação do mal 3",
+        "Gênero": "Terror",
+        "Ano": 1900,
+        "Nota": 3.67
+    }
+]
